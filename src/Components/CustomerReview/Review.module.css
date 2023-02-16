@@ -1,0 +1,17 @@
+.review {
+  color: white;
+
+  text-align: center;
+  width: 100%;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.reviewtext {
+  text-align: left;
+}
+.reviewer {
+  text-align: right;
+}

@@ -1,0 +1,12 @@
+.reviewcard {
+  background: rgba(1, 48, 20, 0.773);
+  box-shadow: 0 2px 8px rgba(1, 48, 20, 0.773);
+  border-radius: 10px;
+  border: 1px;
+  width: fit-content;
+  height: auto;
+  overflow: hidden;
+  padding: 10px 10px;
+  margin: 30px;
+  color: rgb(240, 235, 235);
+}
